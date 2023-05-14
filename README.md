@@ -25,3 +25,5 @@ You can run commands like:
 "I am good"
 "Search what is anaconda"
 "Leave the program"
+
+Recommend suggestions or errors.
